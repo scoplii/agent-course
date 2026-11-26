@@ -8,3 +8,4 @@ messages = [
 ]
 for message in messages:
  print(message["role"], "=>", message["content"])
+ name = "学习 Agent"
